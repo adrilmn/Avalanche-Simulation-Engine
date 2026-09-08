@@ -1,0 +1,16 @@
+# Build artifacts
+build/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+*.out
+*.app
+avalanche_simulation
+
+# IDE / OS files
+.DS_Store
+.vscode/
+.idea/
+*.swp
